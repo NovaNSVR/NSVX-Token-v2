@@ -2,7 +2,7 @@
   "name": "NSVX",
   "symbol": "NSVX",
   "description": "NSVX is the fixed-supply native utility token powering the NeuroScope VR and AlphaGlow AI ecosystem. It enables platform access, creator monetization, enterprise licensing, immersive experiences, and ecosystem participation across the NeuroScope VR network.",
-  "image": "https://YOUR-DOMAIN.com/nsvx.png",
+  "image": "https://raw.githubusercontent.com/NovaNSVR/NSVX-Token-v2/main/NSVX-token.png",
   "external_url": "https://nsvr.app",
   "attributes": [
     { "trait_type": "Ecosystem", "value": "NeuroScope VR & AlphaGlow AI" },
